@@ -1,0 +1,46 @@
+{
+  "name": "passport-squiddio",
+  "version": "1.0.2",
+  "description": "Passport authentication strategy for access to squidd.io APIs",
+  "main": "./lib",
+  "dependencies": {
+    "passport-oauth2": "1.x.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mauroc/passport-squiddio.git"
+  },
+  "keywords": [
+    "passport",
+    "squiddio",
+    "signalk",
+    "navigation",
+    "sailing",
+    "repository"
+  ],
+  "author": {
+    "name": "Mauro Calvi",
+    "email": "coupdemistral@gmail.com",
+    "url": "http:/squidd.io"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauroc/passport-squiddio/issues"
+  },
+  "homepage": "https://github.com/mauroc/passport-squiddio",
+  "_from": "passport-squiddio@~1.0.1",
+  "_npmVersion": "1.2.25",
+  "_npmUser": {
+    "name": "squiddio",
+    "email": "coupdemistral@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "squiddio",
+      "email": "coupdemistral@gmail.com"
+    }
+  ]
+}
